@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		0C5D37193051C83E00D5C06A /* Assignment1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Assignment1; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C8C6D733064507F0033954E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0CC11E54305B13DD0064D75C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,6 +38,7 @@
 		0C5D37103051C83E00D5C06A = {
 			isa = PBXGroup;
 			children = (
+				0C8C6D723064506C0033954E /* assignment3 */,
 				0CC11E53305B13D00064D75C /* assignment2 */,
 				0C5D371A3051C83E00D5C06A /* Products */,
 			);
@@ -48,6 +50,14 @@
 				0C5D37193051C83E00D5C06A /* Assignment1 */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		0C8C6D723064506C0033954E /* assignment3 */ = {
+			isa = PBXGroup;
+			children = (
+				0C8C6D733064507F0033954E /* main.swift */,
+			);
+			path = assignment3;
 			sourceTree = "<group>";
 		};
 		0CC11E53305B13D00064D75C /* assignment2 */ = {
